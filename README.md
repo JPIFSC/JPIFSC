@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas de Leon
+# 👨‍💻 João Pedro Callegaro Guimarães
 ➡️ Conta destinada aos projetos feitos durante a faculdade de Análise e Desenvolvimento de Sistemas no IFSC, e aos projetos e estudos 
 independentes feitos ao decorrer do curso.
 
